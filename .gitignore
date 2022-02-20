@@ -1,5 +1,7 @@
 .idea/
 
+cnn/.quickdrawcache
+
 cnn/dataset/*
 !cnn/dataset/.gitkeep
 
@@ -9,9 +11,7 @@ cnn/logs/
 cnn/models/
 !cnn/models/.gitkeep
 
-.quickdrawcache
-
-images/*.png
+webapp/images/*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
