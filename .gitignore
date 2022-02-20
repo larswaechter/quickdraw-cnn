@@ -3,8 +3,11 @@
 cnn/dataset/*
 !cnn/dataset/.gitkeep
 
-logs/
-models/
+cnn/logs/
+!cnn/logs/.gitkeep
+
+cnn/models/
+!cnn/models/.gitkeep
 
 .quickdrawcache
 
