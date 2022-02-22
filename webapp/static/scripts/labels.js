@@ -343,5 +343,5 @@ const LABELS = [
     "wristwatch",
     "yoga",
     "zebra",
-    "zigzag"
+    "zigzag",
 ];
