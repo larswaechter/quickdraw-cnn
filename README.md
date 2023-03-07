@@ -42,7 +42,7 @@ Alternatively, you can also run it via Docker:
 
 ```
 docker build . -t quickdraw-webapp
-docker run quickdraw-webapp -p 443:443
+docker run -p 443:443 quickdraw-webapp
 ```
 
 The webapp should be available at [http://0.0.0.0:443](http://0.0.0.0:443).
